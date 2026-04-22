@@ -1,0 +1,36 @@
+[
+  {
+    "email": "phuonglinh@gmail.com",
+    "password": "123",
+    "fullName": "Nguyễn Đỗ Phương Linh",
+    "birthday": "2006-08-22",
+    "bio": "Đẹp nhất là khi bạn tự tin vào chính mình.",
+    "detailBio": "Chào cậu, mình là một cô gái yêu những điều giản đơn: một ly cà phê ấm, một cuốn sách hay và những buổi chiều hoàng hôn rực rỡ. Mình tin rằng mỗi người là một đóa hoa riêng biệt, chỉ cần kiên nhẫn, chúng ta đều sẽ nở rộ theo cách của riêng mình. Phương châm sống của mình là: 'Hãy tử tế với bản thân và dịu dàng với thế giới'. Hy vọng nơi đây sẽ là góc nhỏ bình yên để mình chia sẻ những khoảnh khắc đời thường, những suy nghĩ vụn vặt và lan tỏa nguồn năng lượng tích cực đến mọi người. Cảm ơn vì đã ghé thăm!",
+    "avatar": "http://localhost:5000/uploads/1776882700244.jpg",
+    "gender": "Nữ",
+    "location": "Dĩ An ",
+    "hobbies": "xem phim chú ba duy"
+  },
+  {
+    "email": "nguyenphucthinh@gmail.com",
+    "password": "0398962301thinh",
+    "fullName": "Nguyễn Phúc Thinh",
+    "gender": "Nam",
+    "birthday": "2006-10-13",
+    "bio": " Mưa đến xóa đi những ký ức rực rỡ, đem lại nổi buồn cho hình bóng cô đơn.",
+    "detailBio": "Một tâm hồn tự do, yêu thích sự chân thành và luôn tìm kiếm vẻ đẹp trong những điều bình dị nhất. Mình tin rằng hạnh phúc không phải là điểm đến mà là hành trình chúng ta đang đi. Mình thích những cuộc trò chuyện sâu sắc, những chuyến đi không định trước và cảm giác được làm chủ cuộc đời mình. Không cần phải quá phô trương, chỉ cần sống thật rực rỡ và tử tế với mọi người xung quanh là đủ. Đây là nơi mình lưu giữ những mảnh ghép cảm xúc và những trải nghiệm đáng nhớ trên hành trình trưởng thành của bản thân.",
+    "avatar": "http://localhost:5000/uploads/1776885386600.jpg",
+    "location": "HCM",
+    "hobbies": "chơi game xem phim"
+  },
+  {
+    "email": "nguyenphucthinh17026@gmail.com",
+    "password": "0398962301Thinh",
+    "fullName": "",
+    "gender": "",
+    "birthday": "2026-04-09",
+    "bio": "",
+    "detailBio": "",
+    "avatar": ""
+  }
+]
